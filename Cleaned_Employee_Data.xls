@@ -1,0 +1,41 @@
+Employee ID,Full Name,Department,Designation,Hire Date,Annual Salary (USD)
+S1001,John Smith,Human Resources,HR Manager,2023-05-15,60000.0
+S1002,Jane Doe,Marketing,Marketing Specialist,2023-08-20,50000.0
+S1003,Michael Johnson,Finance,Financial Analyst,2023-10-10,55000.0
+S1004,Emily Brown,Sales,Sales Representative,2023-03-25,48000.0
+S1005,David Wilson,Information Technology,IT Specialist,2023-09-12,60000.0
+S1006,Lisa Taylor,Operations,Operations Manager,2023-06-30,65000.0
+S1007,Daniel Martinez,Customer Service,Customer Service Representative,2023-11-05,45000.0
+S1008,Sarah Anderson,Research and Development,R&D Engineer,2023-04-18,58000.0
+S1009,Christopher Thomas,Production,Production Supervisor,2023-07-22,52000.0
+S1010,Kimberly Garcia,Quality Assurance,QA Analyst,2023-02-14,56000.0
+S1011,William Hernandez,Human Resources,HR Coordinator,2023-09-01,48000.0
+S1012,Melissa Lopez,Marketing,Marketing Manager,2023-06-10,65000.0
+S1013,Richard Perez,Finance,Finance Manager,2023-11-18,70000.0
+S1014,Jessica Gonzalez,Sales,Sales Manager,2023-05-03,72000.0
+S1015,Matthew Wilson,Information Technology,IT Manager,2023-08-08,75000.0
+S1016,Amanda Martinez,Operations,Operations Coordinator,2023-10-29,48000.0
+S1017,James Johnson,Customer Service,Customer Service Manager,2023-03-12,68000.0
+S1018,Laura Brown,Research and Development,R&D Manager,2023-06-25,70000.0
+S1019,Daniel Smith,Production,Production Manager,2023-09-30,72000.0
+S1020,Jennifer Davis,Quality Assurance,QA Manager,2023-01-17,75000.0
+S1021,Michael Garcia,Human Resources,HR Assistant,2023-07-05,42000.0
+S1022,Amy Hernandez,Marketing,Marketing Coordinator,2023-04-28,48000.0
+S1023,Christopher Rodriguez,Finance,Senior Financial Analyst,2023-11-12,60000.0
+S1024,Jessica Martinez,Sales,Senior Sales Representative,2023-05-25,55000.0
+S1025,David Wilson,Information Technology,Senior IT Specialist,2023-08-30,70000.0
+S1026,Sarah Smith,Operations,Assistant Operations Manager,2023-10-15,55000.0
+S1027,Matthew Johnson,Customer Service,Senior Customer Service Representative,2023-03-28,50000.0
+S1028,Emily Davis,Research and Development,R&D Technician,2023-06-01,48000.0
+S1029,Daniel Wilson,Production,Senior Production Supervisor,2023-09-08,60000.0
+S1030,Jennifer Martinez,Quality Assurance,Senior QA Analyst,2023-02-22,62000.0
+S1031,Michael Smith,Human Resources,HR Generalist,2023-07-17,50000.0
+S1032,Jessica Johnson,Marketing,Marketing Assistant,2023-04-10,42000.0
+S1033,David Brown,Finance,Junior Financial Analyst,2023-11-26,48000.0
+S1034,Sarah Garcia,Sales,Sales Coordinator,2023-06-17,50000.0
+S1035,Matthew Hernandez,Information Technology,Junior IT Specialist,2023-09-20,48000.0
+S1036,Emily Rodriguez,Operations,Operations Assistant,2023-12-03,42000.0
+S1037,Daniel Davis,Customer Service,Customer Service Associate,2023-04-06,40000.0
+S1038,Jennifer Smith,Research and Development,R&D Assistant,2023-07-30,42000.0
+S1039,Michael Johnson,Production,Production Assistant,2023-10-25,40000.0
+S1040,Jessica Martinez,Quality Assurance,QA Assistant,2023-03-20,42000.0
